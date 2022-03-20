@@ -13,6 +13,9 @@ https://amigadventures.tumblr.com/post/615778699969757184/getting-the-amiga-cd32
 
 # Actual device
 
+![изображение](https://user-images.githubusercontent.com/81614352/159173167-8cd53ba4-9a59-4d8d-8643-68d1e74bd7c5.png)
+
+Connected to an Amiga 1200
 ![изображение](https://user-images.githubusercontent.com/81614352/159173108-955b7df6-231f-4a81-a14d-749783572a99.png)
 
 
